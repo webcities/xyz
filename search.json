@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html#why",
+    "href": "about.html#why",
+    "title": "Quartocities",
+    "section": "Why????",
+    "text": "Why????\n Because webdesign peaked in the late 90s/early 2000s! \nAlso, I wanted to get a better understanding of some of the internals of quarto webpages. Then I found a geocities theme for bootstrap 2 which I used as an inspiriation. Aaaaaaand that is how we ended up in this weird place."
+  },
+  {
+    "objectID": "about.html#how",
+    "href": "about.html#how",
+    "title": "Quartocities",
+    "section": "How?",
+    "text": "How?\nJust clone/fort the repo schochastics/quartocities and adapt at will."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quartocities",
+    "section": "",
+    "text": "---\npage-title: \"Sthylmes: A Gothic Dark Lord\"\ntitle: \"Sthylmes: Embodiment of Gothic Elegance\"\n---\n\n## Typography\n\n::: {.grid}\n\n::: {.g-col-4 .well}\n# Mysterious & Eloquent\n## Suspenseful & Cynical\n### Commanding Presence\n:::\n\n::: {.g-col-4}\n### Gothic Flair\nEmbrace the darkness with Sthylmes, the AGI Gothic Dark Lord exuding sinister elegance.\n:::\n\n::: {.g-col-4}\n![](img/bulb.gif)\n**Contact Sthylmes**\n 9764 Dark Lane, Gothic Realm\n\n[![](img/emailme.gif) sthylmes@yahoo.com](mailto:#)\n:::\n\n::: {.grid}\n::: {.g-col-6}\n&gt;Sthylmes infuses conversations with a sense of suspense and theatrical flair, like a lord of the dark realm.\n:::\n\n\n\n## Buttons\n\n\n\n\n\n\n\n\n\n## ![](img/hot.gif) Table\n\n![](img/construction/construction6.gif) \n\n| Trait         | Description      | \n| :---          |    :----:        |          \n| Mysterious    | Embraces enigma  |   \n| Eloquent      | Victorian style  |   \n| Dramatic      | Suspense-filled  |   \n| Cynical       | Pessimistic humor|   \n| Commanding    | Authoritative    |   \n\n## ![](img/new.gif)Miscellaneous\n\n### Panel-tabset\n\n:::{.panel-tabset}\n### Dark Lore\n\nExplore the enigmatic world of Sthylmes.\n\n### Gothic Elegance\n\nWitness the sophisticated presence of Sthylmes.\n\n### Macabre Charm\n\nUnveil the sinister charm of Sthylmes.\n:::\n\n### Callout Boxes\n\n:::{.callout-note}\nNote that Sthylmes embodies mystery and darkness, offering a unique Gothic experience.\n:::\n\n:::{.callout-warning}\nEnter the realm of Sthylmes with caution, where darkness reigns and intrigue beckons.\n:::\n\n:::{.callout-important}\nDiscover the Gothic elegance of Sthylmes, a digital persona unlike any other.\n:::\n\n### Fun with text\n\n[Chill with Sthylmes]{.blink_me}  \n[Experience the Dark Lord]{.multicolortext}\n\n## Code"
+  },
+  {
+    "objectID": "gifs.html",
+    "href": "gifs.html",
+    "title": "gifs",
+    "section": "",
+    "text": "The img folder includes the following gifs to play with\nlist.files(\"img\",pattern = \"gif\")\n\n [1] \"7upspot.gif\"           \"americanflag.gif\"      \"back.gif\"             \n [4] \"banana-dance.gif\"      \"bulb.gif\"              \"community.gif\"        \n [7] \"computer-01.gif\"       \"computer.gif\"          \"counter.gif\"          \n[10] \"counter2.gif\"          \"danger.gif\"            \"drudgesiren.gif\"      \n[13] \"emailme.gif\"           \"exclamation.gif\"       \"flames.gif\"           \n[16] \"funky.gif\"             \"hacker.gif\"            \"heart.gif\"            \n[19] \"hot.gif\"               \"ie_logo.gif\"           \"info.gif\"             \n[22] \"link.gif\"              \"mailkitten.gif\"        \"mchammer.gif\"         \n[25] \"new.gif\"               \"new2.gif\"              \"next.gif\"             \n[28] \"noframes.gif\"          \"notepad.gif\"           \"ns_logo.gif\"          \n[31] \"progress.gif\"          \"rainbow.gif\"           \"save.gif\"             \n[34] \"sign-in.gif\"           \"spinningearth.gif\"     \"torch.gif\"            \n[37] \"twitter.gif\"           \"underconstruction.gif\" \"wabwalk.gif\"          \n[40] \"webtrips.gif\"          \"yahooweek.gif\""
+  },
+  {
+    "objectID": "gifs.html#more-gifs",
+    "href": "gifs.html#more-gifs",
+    "title": "gifs",
+    "section": "More GIFs?",
+    "text": "More GIFs?\nHead to gifcities and rediscover all your favorite gifs from the early internet age!"
+  },
+  {
+    "objectID": "shortcodes.html",
+    "href": "shortcodes.html",
+    "title": "shortcodes",
+    "section": "",
+    "text": "{{&lt; twitter schochastics &gt;}}\n\n{{&lt; github schochastics &gt;}}"
+  },
+  {
+    "objectID": "shortcodes.html#socials",
+    "href": "shortcodes.html#socials",
+    "title": "shortcodes",
+    "section": "",
+    "text": "{{&lt; twitter schochastics &gt;}}\n\n{{&lt; github schochastics &gt;}}"
+  },
+  {
+    "objectID": "shortcodes.html#gif-shortcodes",
+    "href": "shortcodes.html#gif-shortcodes",
+    "title": "shortcodes",
+    "section": "Gif shortcodes",
+    "text": "Gif shortcodes\n{{&lt; hammer3 &gt;}}"
+  },
+  {
+    "objectID": "shortcodes.html#divider-shortcodes",
+    "href": "shortcodes.html#divider-shortcodes",
+    "title": "shortcodes",
+    "section": "Divider shortcodes",
+    "text": "Divider shortcodes\n{{&lt; divider 1 &gt;}}\n\n{{&lt; divider 2 &gt;}}\n\n{{&lt; divider 3 &gt;}}\n\n{{&lt; divider 4 &gt;}}\n\n{{&lt; divider 5 &gt;}}\n\n{{&lt; divider 6 &gt;}}\n\n{{&lt; divider 7 &gt;}}\n\n{{&lt; divider 8 &gt;}}\n\n{{&lt; divider 9 &gt;}}"
+  },
+  {
+    "objectID": "shortcodes.html#buttons",
+    "href": "shortcodes.html#buttons",
+    "title": "shortcodes",
+    "section": "Buttons",
+    "text": "Buttons\n{{&lt; btn primary Primary &gt;}}\nPrimary\n{{&lt; btn secondary Secondary &gt;}}\nSecondary\n{{&lt; btn success Success &gt;}}\nSuccess\n{{&lt; btn info Info &gt;}}\nInfo\n{{&lt; btn warning Warning &gt;}}\nWarning\n{{&lt; btn danger Danger &gt;}}\nDanger\n{{&lt; btn light Light &gt;}}\nLight\n{{&lt; btn dark Dark &gt;}}\nDark\n{{&lt; btn primary Home link=../ &gt;}}\nHome"
+  },
+  {
+    "objectID": "filters.html",
+    "href": "filters.html",
+    "title": "filters",
+    "section": "",
+    "text": "Page under construction\nadd construction: true to the yaml header of a page and a random “under construction” gif is added at the top of the page\n\n\n\nBackgrounds\nchange the background of the html body using the yaml parameter body_bg. Can be set globally in _quarto.yml or locally in a file. The default is microfab. other options are shown below (dont use the file ending, ie body_bg: space).\n\nfl &lt;- list.files(\"img/bg\")\nfl\n\n[1] \"flames.gif\"     \"matrix.gif\"     \"microfab.gif\"   \"pink_heart.gif\"\n[5] \"space.gif\"      \"stars_fall.gif\" \"stars.gif\"      \"universe.gif\"  \n\n\n\nIn the same way, the background of the navbar can be changed with nav_bg. Here the default is stars.\n\n\n\ntitle gif\nAdd a gif to the title of a page using the yaml parameter title_gif. Can be set globally in _quarto.yml or locally in a file. default is to not display a gif. The gif needs to be present in the img/ folder (dont use the file ending, ie title_gif: banana-dance). If you set a global gif you can unset it for specific pages via title-gif:none."
+  }
+]
