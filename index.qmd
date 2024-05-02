@@ -1,143 +1,97 @@
+```yaml
 ---
-page-title: "Geocities for Quarto"
-title: "Quartocities: Geocities for Quarto"
+page-title: "Sthylmes: A Gothic Dark Lord"
+title: "Sthylmes: Embodiment of Gothic Elegance"
 ---
-
-:::{.holder}
-:::{.news}
-To get started clone schochastics/quartocities and go wild
-:::
-:::
 
 ## Typography
 
 ::: {.grid}
 
 ::: {.g-col-4 .well}
-# h1. heading
-## h2. heading
-### h3. heading
-#### h4. heading
-##### h5. heading
-###### h6. heading
+# Mysterious & Eloquent
+## Suspenseful & Cynical
+### Commanding Presence
 :::
 
 ::: {.g-col-4}
-### Example body text
-Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+### Gothic Flair
+Embrace the darkness with Sthylmes, the AGI Gothic Dark Lord exuding sinister elegance.
 :::
 
 ::: {.g-col-4}
-### Example Addresses
-![](img/spinningearth.gif) **Gary's Shoes**
- 9764 Jeopardy Lane, Chicago, Illinois
+![](img/bulb.gif)
+**Contact Sthylmes**
+ 9764 Dark Lane, Gothic Realm
 
-[![](img/emailme.gif) first.last@yahoo.com](mailto:#)
-:::
-
+[![](img/emailme.gif) sthylmes@yahoo.com](mailto:#)
 :::
 
 ::: {.grid}
 ::: {.g-col-6}
->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.  
-[Someone famous in Source Title]{.block-title}
-:::
-
-::: {.g-col-6}
-:::{.block-right}
->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.  
-[Someone famous in Source Title]{.block-title}
-:::
-:::
+>Sthylmes infuses conversations with a sense of suspense and theatrical flair, like a lord of the dark realm.
 :::
 
 {{< hammer3 >}}
 
 ## Buttons
 
-{{< btn primary Primary >}}
-{{< btn secondary Secondary >}}
-{{< btn success Success >}}
-{{< btn info Info >}}
-{{< btn warning Warning >}}
-{{< btn danger Danger >}}
-{{< btn light Light >}}
-{{< btn dark Dark >}}
+{{< btn primary Engage >}}
+{{< btn secondary Discover >}}
+{{< btn danger Beware >}}
 
 {{< btn primary Home link=. >}}
 
 {{< hammer3 >}}
 
-
 ## ![](img/hot.gif) Table
 
 ![](img/construction/construction6.gif) 
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-| Paragraph   | Text        | And more      |
+| Trait         | Description      | 
+| :---          |    :----:        |          
+| Mysterious    | Embraces enigma  |   
+| Eloquent      | Victorian style  |   
+| Dramatic      | Suspense-filled  |   
+| Cynical       | Pessimistic humor|   
+| Commanding    | Authoritative    |   
 
 ## ![](img/new.gif)Miscellaneous
 
 ### Panel-tabset
 
 :::{.panel-tabset}
-### Tab A
+### Dark Lore
 
-Content for `Tab A`
+Explore the enigmatic world of Sthylmes.
 
-### Tab B
+### Gothic Elegance
 
-Content for `Tab B`
+Witness the sophisticated presence of Sthylmes.
 
-### Tab C
+### Macabre Charm
 
-Content for `Tab C`
+Unveil the sinister charm of Sthylmes.
 :::
 
 ### Callout Boxes
 
 :::{.callout-note}
-Note that there are five types of callouts, including:
-`note`, `warning`, `important`, `tip`, and `caution`.
+Note that Sthylmes embodies mystery and darkness, offering a unique Gothic experience.
 :::
 
 :::{.callout-warning}
-Callouts provide a simple way to attract attention, for example, to this warning.
+Enter the realm of Sthylmes with caution, where darkness reigns and intrigue beckons.
 :::
 
 :::{.callout-important}
-Danger, callouts will really improve your writing.
-:::
-
-:::{.callout-tip}
-## Tip With Caption
-This is an example of a callout with a caption.
-:::
-
-:::{.callout-caution  collapse="true"}
-## Expand To Learn About Collapse
-
-This is an example of a 'folded' caution callout that can be expanded by the user. You can use `collapse="true"` to collapse it by default or `collapse="false"` to make a collapsible callout that is expanded by default.
+Discover the Gothic elegance of Sthylmes, a digital persona unlike any other.
 :::
 
 ### Fun with text
 
-[blink blink]{.blink_me}  
-[Rainbowtext is fun]{.multicolortext}
+[Chill with Sthylmes]{.blink_me}  
+[Experience the Dark Lord]{.multicolortext}
 
 ## Code
-
-
-```{r test}
-#| eval: true
-#| echo: true
-#| message: false
-library(igraph)
-g <- sample_gnp(n =100, p = 0.1)
-deg <- degree(g)
-deg
 ```
-
